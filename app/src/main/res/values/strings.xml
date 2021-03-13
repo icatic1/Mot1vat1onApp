@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mot1vat1on</string>
+
+    <string-array name="quotes">
+        <item> Prvi quote u apk </item>
+        <item> Drugi quote u apk </item>
+        <item> Treci quote u apk </item>
+        <item> Cetvrti quote u apk </item>
+        <item> Peti quote u apk </item>
+        <item> Sesti quote u apk </item>
+        <item> Sedmi quote u apk </item>
+        <item> Osmi quote u apk </item>
+        <item> Deveti quote u apk </item>
+        <item> Deseti quote u apk </item>
+    </string-array>
+
+</resources>
